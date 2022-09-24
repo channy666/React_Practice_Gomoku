@@ -68,7 +68,7 @@ const Move = styled.button`
   ${MEDIA_QUERY_SM} {
     height: 35px;
     width: 100px;
-    font-size: 14px;
+    font-size: 13px;
     border: 3px double silver;
     margin-top: 3px;
   }

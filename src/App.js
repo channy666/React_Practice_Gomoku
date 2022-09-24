@@ -154,9 +154,10 @@ const Restart = styled.div`
     letter-spacing: 1.5px;
 
     ${MEDIA_QUERY_SM} {
-      font-size: 18px;
+      font-size: 16px;
       width: 100px;
       height: 40px;
+      letter-spacing: 1px;
     }
 
     :hover {
