@@ -20,7 +20,7 @@ const MoveContainer = styled.ol`
   }
 
   ${MEDIA_QUERY_SM} {
-    margin: 50px 15px 30px 15px;
+    margin: 50px 10px 30px 10px;
     height: 75px;
   }
 
@@ -67,7 +67,7 @@ const Move = styled.button`
 
   ${MEDIA_QUERY_SM} {
     height: 35px;
-    width: 100px;
+    width: 110px;
     font-size: 13px;
     border: 3px double silver;
     margin-top: 3px;

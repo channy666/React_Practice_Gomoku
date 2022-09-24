@@ -154,8 +154,8 @@ const Restart = styled.div`
     letter-spacing: 1.5px;
 
     ${MEDIA_QUERY_SM} {
-      font-size: 16px;
-      width: 100px;
+      font-size: 15px;
+      width: 110px;
       height: 40px;
       letter-spacing: 1px;
     }
